@@ -33,4 +33,3 @@ sifre_button.pack()
 
 
 pencere.mainloop()
-#Tekno_Raf tarafından yapılmıştır
